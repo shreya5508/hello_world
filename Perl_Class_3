@@ -1,0 +1,5 @@
+References:
+You can get references when you prepend a datastructure with a backslash.
+ex: my @marks = (90, 34, 32, 12);
+    my $m_ref = \@marks;
+ All references are scalars.
